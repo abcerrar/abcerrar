@@ -10,4 +10,4 @@
 - ⚛️ React and Android Studio proficiency
 ## Contact
 
-Feel free to connect with me on GitHub or reach out via [LinkedIn](https://www.linkedin.com/in/david-colera-37931b168/)
+Feel free to connect with me on GitHub or reach out via [LinkedIn](https://www.linkedin.com/in/david-colera/)
